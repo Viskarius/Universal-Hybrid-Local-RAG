@@ -1,0 +1,7 @@
+aiofiles
+asyncpg
+docling
+fastapi
+python-multipart
+sqlalchemy[asyncio]
+uvicorn[standard]
